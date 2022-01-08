@@ -1,5 +1,5 @@
 # ISM-2020-2021
-#   Stock Market Predictive Analytics Project Proposal for ISM
+#   Stock Market Predictive Analytics Project l for ISM
 As a Machine Learning Engineer, it is key to know the basics of Data Science. We can easily assume that goals created by ML Engineers will greatly differ from those created by a Data Scientist, and of course, the distinction continues with increasingly specialized branches of the field such as Deep Learning and Artificial Intelligence. Therefore, I believe that my Original Work shall encompass the Data Science topics with implementing the ML concepts.  I propose to create a Data Science project that implements ML models to help predict the stock market prices. 
 
 As a person who has recently gotten interested in stocks, it was quite difficult to predict the stock prices and whether I should buy, sell, or hold them. As I researched the news, previous stock prices of the companies, and what I should do with my stocks to make them profitable, I seemed to have gotten more confused than what I had started with. Of course, there are multiple ways to analyze a company's finances and also a bit of instinct for investing, but I never found something that predicted the stock prices in a much more intuitive way.
